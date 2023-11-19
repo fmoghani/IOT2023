@@ -1,6 +1,5 @@
 # IoT2020 delivered on 2023
-IoT project based on Cooja simulations in Contiki and a java application with Californium.
-Be sure to download the repository in the "contiki-ng" directory.
+ download the repository in the "contiki-ng" directory.
 
 
 1. Start the Cooja simulation
