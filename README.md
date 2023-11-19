@@ -14,6 +14,4 @@ Be sure to download the repository in the "contiki-ng" directory.
     > make TARGET=cooja connect-router-cooja
   
 3. Start the java application:
-    > cd app
-  
-    > java -jar target/app-0.0.1-SNAPSHOT.jar 
+   
